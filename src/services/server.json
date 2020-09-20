@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Jacket",
+      "price": 290.9
+    },
+    {
+      "id": 2,
+      "title": "T-shirt",
+      "price": 40.9
+    },
+    {
+      "id": 3,
+      "title": "Shoes",
+      "price": 500.0
+    },
+    {
+      "id": 4,
+      "title": "Hoodie",
+      "price": 189.9
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "quantity": 3
+    }
+  ]
+}
